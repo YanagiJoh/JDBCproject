@@ -1,0 +1,2 @@
+# JDBCproject
+JDBC練習
